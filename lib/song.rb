@@ -12,3 +12,4 @@ class Song
     puts @@count
   end
   
+  def self.genre
