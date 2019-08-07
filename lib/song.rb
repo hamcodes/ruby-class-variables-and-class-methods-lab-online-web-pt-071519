@@ -12,4 +12,8 @@ class Song
     puts @@count
   end
   
-  def self.genres
+  def self.genre
+  end
+
+  def self.artist
+  end
