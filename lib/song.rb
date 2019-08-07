@@ -8,7 +8,7 @@ class Song
   def song
     @song
   end
-end
+
 #   @@count = 0 
 #   @@genres = []
 #   @@artists = []
