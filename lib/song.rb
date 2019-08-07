@@ -10,7 +10,7 @@ class Song
   @@artist = []
   @@genre = []
   def self.count
-    puts @@count
+    return @@count
   end
   
   def self.genre
