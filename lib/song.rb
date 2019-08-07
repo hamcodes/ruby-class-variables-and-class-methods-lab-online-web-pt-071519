@@ -13,10 +13,10 @@ class Song
     return @@count
   end
   
-  def self.genre
+  def self.genres
   end
 
-  def self.artist
+  def self.artists
   end
   
   def self.genre_count
