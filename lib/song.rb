@@ -9,4 +9,6 @@ class Song
   @@count = 0
 
   def self.count
+    puts @@count
+  end
   
